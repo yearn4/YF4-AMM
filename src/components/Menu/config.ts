@@ -7,20 +7,19 @@ const config: MenuEntry[] = [
     href: 'https://www.nsolar.com/'
   },
   {
-    label: 'Exchange',
+    label: 'Trade',
     icon: 'TradeIcon',
-    href: '/swap'
-    // initialOpenState: true,
-    // items: [
-    //   {
-    //     label: 'Exchange',
-    //     href: '/swap'
-    //   },
-      // {
-      //   label: 'Liquidity',
-      //   href: '/pool'
-      // }
-    // ]
+    initialOpenState: true,
+    items: [
+      {
+        label: 'Exchange',
+        href: '/swap'
+      },
+      {
+        label: 'Liquidity',
+        href: '/pool'
+      }
+    ]
   },
   // {
   //   label: 'Farms',
