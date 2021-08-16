@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.nsolar.com/'
+    href: 'https://www.nsolarfarmdefi.com/'
   },
   {
     label: 'Trade',
