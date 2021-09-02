@@ -15,7 +15,10 @@ live:.cid.c59ecac38fe47f5
 
 
 to start:
-git clone NSFD-AMM repo on your machin
+git clone NSFD-AMM repo on your machine
+open terminal in your mac
+
+gite clone https://github.com/NSFD-Swap-DEX/NSFD-AMM.git
 
 yarn install
 
