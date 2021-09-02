@@ -1,13 +1,13 @@
 {
   "name": "goose-frontend-amm",
-  "description": "AMM Interface",
-  "homepage": ".",
+  "description": "YF4 AMM Interface",
+  "homepage": "https://swap.yearn4.finance/",
   "private": true,
   "dependencies": {
     "@crowdin/crowdin-api-client": "^1.8.16",
     "@ethersproject/experimental": "^5.0.1",
-    "@pancakeswap-libs/sdk": "NSFD-Swap-DEX/NSFD-sdk",
-    "@pancakeswap-libs/uikit": "NSFD-Swap-DEX/NSFD-uikit",
+    "@pancakeswap-libs/sdk": "yearn4/YF4-sdk",
+    "@pancakeswap-libs/uikit": "yearn/YF4-uikit",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
     "@reach/portal": "^0.10.3",
