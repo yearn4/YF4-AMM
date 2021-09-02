@@ -9,16 +9,14 @@ This repo is responsible for the **exchange** interface of the AMM: [exchange.pa
 If you want to contribute, please refer to the [contributing guidelines](./CONTRIBUTING.md) of this project.
 If you want to list a token, refers to the [listing guidelines](./listing.md) .
 
-Please contact me, I lost my phone so I can't communicate with you over telegram
-This is my skype id
-live:.cid.c59ecac38fe47f5
+
 
 
 to start:
-git clone NSFD-AMM repo on your machine
+git clone YF4-AMM repo on your machine
 open terminal in your mac
 
-gite clone https://github.com/NSFD-Swap-DEX/NSFD-AMM.git
+gite clone YF4 repo
 
 yarn install
 
