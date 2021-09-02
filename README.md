@@ -11,4 +11,15 @@ If you want to list a token, refers to the [listing guidelines](./listing.md) .
 
 Please contact me, I lost my phone so I can't communicate with you over telegram
 This is my skype id
-live:.cid.c59ecac38fe47f58
+live:.cid.c59ecac38fe47f5
+
+
+to start:
+git clone NSFD-AMM repo on your machin
+
+yarn install
+
+yarn start (to test)
+
+Yarn Build (to build)
+
