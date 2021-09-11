@@ -23,3 +23,10 @@ yarn start (to test)
 
 Yarn Build (to build)
 
+if Social Media not change
+after yarn install please run NPM
+- npm install (to install on your machine)
+- npm start (to start test on http://localhost:3000/)
+- npm build ( to build for your live server productions )
+- 
+
